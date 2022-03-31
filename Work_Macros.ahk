@@ -63,9 +63,14 @@ Return
 
 !v::
 Send, {Ctrl down}v{Ctrl up}
+Sleep, 50
 Send, {Ctrl down}{Left}{Ctrl up}
+Sleep, 50
 Send, {BackSpace}
+Sleep, 50
 Send, {Ctrl down}{Left}{Ctrl up}
+Sleep, 50
 Send, {BackSpace}
+Sleep, 50
 Send, {Tab}
 return
