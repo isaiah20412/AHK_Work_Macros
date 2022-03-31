@@ -55,4 +55,17 @@ Send, {BackSpace}S/O 5-7 days.
 return
 
 
-; Parts Info	
+; Parts Info
+; P&A
+!S::
+Send, See VHR for P&A.
+Return
+
+!v::
+Send, {Ctrl down}v{Ctrl up}
+Send, {Ctrl down}{Left}{Ctrl up}
+Send, {BackSpace}
+Send, {Ctrl down}{Left}{Ctrl up}
+Send, {BackSpace}
+Send, {Tab}
+return
