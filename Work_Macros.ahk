@@ -8,7 +8,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Ford Oil Filters
 :*:fl500::AA5Z6714A{Tab}
 :*:fl2051::BC3Z6731B{Tab}
-:*:fl820::F18Z6731BD{Tab}
+:*:fl820::F1AZ6731BD{Tab}
 :*:FL910::BE8Z6731AB{Tab}
 :*:FL2062::KU2Z6731A{Tab}
 :*:FL400::E4FZ6731AB{Tab}
@@ -64,14 +64,9 @@ Return
 !v::
 Sleep, 400
 Send, {Ctrl down}v{Ctrl up}
-;Sleep, 50
 Send, {Ctrl down}{Left}{Ctrl up}
-;Sleep, 50
 Send, {BackSpace}
-;Sleep, 50
 Send, {Ctrl down}{Left}{Ctrl up}
-;Sleep, 50
 Send, {BackSpace}
-;Sleep, 50
 Send, {Tab}
 return
