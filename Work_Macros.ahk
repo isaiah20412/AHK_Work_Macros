@@ -62,6 +62,7 @@ Send, See VHR for P&A.
 Return
 
 !v::
+Sleep, 500
 Send, {Ctrl down}v{Ctrl up}
 Sleep, 500
 Send, {Ctrl down}{Left}{Ctrl up}
