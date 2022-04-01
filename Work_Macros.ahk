@@ -60,7 +60,7 @@ return
 !S::
 Send, See VHR for P&A.
 Return
-
+/*
 !v::
 Sleep, 400
 Send, {Ctrl down}v{Ctrl up}
@@ -68,5 +68,13 @@ Send, {Ctrl down}{Left}{Ctrl up}
 Send, {BackSpace}
 Send, {Ctrl down}{Left}{Ctrl up}
 Send, {BackSpace}
+Send, {Tab}
+return
+*/
+
+!v::
+Sleep, 300
+StringReplace, clipboard, clipboard, %A_Space%, , All
+Send, %clipboard%
 Send, {Tab}
 return
