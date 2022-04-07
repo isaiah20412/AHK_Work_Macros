@@ -25,7 +25,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Dodge Oil Filters
 :*:MO285::5083285AA{Tab}
 
-
+; Ford Supercessions
+:*:VC3B::VC13G{Tab}
 
 ; Note Shortcuts
 
