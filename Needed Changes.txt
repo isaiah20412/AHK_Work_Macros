@@ -1,7 +1,7 @@
 This file contains a list of the features/functions that still need to be implemented.
 
 ___Supercessions___
-XO5W30QSP = XO5W30Q1SP
+XO5W30QSP = XO5W30Q1SP | Done
 
 ___Recall Shortcuts___
-21S22 = W709002-SS3GA
+21S22 = W709002-SS3GA | Done
