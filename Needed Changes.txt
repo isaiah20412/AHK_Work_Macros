@@ -5,3 +5,6 @@ XO5W30QSP = XO5W30Q1SP | Done
 
 ___Recall Shortcuts___
 21S22 = W709002-SS3GA | Done
+
+___Vague Ideas___
+Some form of quantity converter for techWALL only... I.E. - 6/XO5W30BSP becomes XO5W30BSP {Tab} {Tab} 6. Thoughts???
