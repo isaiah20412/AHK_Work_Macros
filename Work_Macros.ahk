@@ -30,7 +30,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:XO5W30QSP::XO5W30Q1SP{Tab}
 
 ; Ford Recall Shortcuts
-:*:21S22::W709002SS3GA{Tab}
+;:*:21S22::W709002SS3GA{Tab}
 
 ; Note Shortcuts
 
