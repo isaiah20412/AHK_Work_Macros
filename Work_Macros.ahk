@@ -8,7 +8,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Ford Oil Filters
 :*:fl500::AA5Z6714A{Tab}
 :*:fl2051::BC3Z6731B{Tab}
-:*:fl820::F1AZ6731BD{Tab}
+:*:fl820::F1AZ6731BE{Tab}
 :*:FL910::BE8Z6731AB{Tab}
 :*:FL2062::KU2Z6731A{Tab}
 :*:FL400::E4FZ6731AB{Tab}
@@ -32,11 +32,12 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:VC3B::VC13G{Tab}
 :*:XO5W30QSP::XO5W30Q1SP{Tab}
 
-; Ford Recall Shortcuts
-;:*:21S22::W709002SS3GA{Tab}
+; Fluid Shortcuts
+:*:MERCONLV::XT10DLV{Tab}
+:*:MERCONSP::XT6QSP{Tab}
+
 
 ; Note Shortcuts
-
 ; Special Order
 ; One day
 ~1 & s::
@@ -75,4 +76,3 @@ StringReplace, clipboard, clipboard, %A_Space%, , All
 Send, %clipboard%
 Send, {Tab}
 return
-
