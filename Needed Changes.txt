@@ -10,7 +10,11 @@ ___Vague Ideas___
 Some form of quantity converter for techWALL only... I.E. - "6/XO5W30BSP" becomes "XO5W30BSP {Tab} {Tab} 6"    Thoughts???
 
 ___Fluid Shortcuts___
-MERCONLV = XT10DLV
+MERCONLV = XT-10-DLV
+MERCONSP = XT-6-QSP
 
 ___Short to Long Part Number Shortcuts___
 SP580X, SP580 = CYFS-12-YT4X | DONE
+
+___Need to Fix___
+FL820 - F1AZ6731BD should be F1AZ6731BE
