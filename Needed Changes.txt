@@ -1,10 +1,10 @@
 This file contains a list of the features/functions that still need to be implemented.
 
 ___Supercessions___
-XO5W30QSP = XO5W30Q1SP | Done
+XO5W30QSP = XO5W30Q1SP | DONE
 
 ___Recall Shortcuts___
-21S22 = W709002-SS3GA | Done
+21S22 = W709002-SS3GA | DONE
 
 ___Vague Ideas___
 Some form of quantity converter for techWALL only... I.E. - "6/XO5W30BSP" becomes "XO5W30BSP {Tab} {Tab} 6"    Thoughts???
@@ -13,4 +13,4 @@ ___Fluid Shortcuts___
 MERCONLV = XT10DLV
 
 ___Short to Long Part Number Shortcuts___
-SP580X, SP580 = CYFS-12-YT4X
+SP580X, SP580 = CYFS-12-YT4X | DONE
