@@ -12,6 +12,7 @@ Some form of quantity converter for techWALL only... I.E. - "6/XO5W30BSP" become
 ___Fluid Shortcuts___
 MERCONLV = XT-10-DLV | DONE
 MERCONSP = XT-6-QSP | DONE
+MERCONV = XT-5-BM
 
 ___Short to Long Part Number Shortcuts___
 SP580X, SP580 = CYFS-12-YT4X | DONE
