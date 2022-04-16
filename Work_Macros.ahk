@@ -35,6 +35,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Fluid Shortcuts
 :*:MERCONLV::XT10DLV{Tab}
 :*:MERCONSP::XT6QSP{Tab}
+:*:MERCONV::XT5BM{Tab}
 
 
 ; Note Shortcuts
