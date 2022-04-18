@@ -16,7 +16,7 @@ MERCONV = XT-5-BM | DONE
 
 ___Short to Long Part Number Shortcuts___
 SP580X, SP580 = CYFS-12-YT4X | DONE
-WW-2002-PF = MLU2Z-17V528-E
+WW-2002-PF = MLU2Z-17V528-E | DONE
 
 ___Need to Fix___
 FL820 - F1AZ6731BD should be F1AZ6731BE | DONE
