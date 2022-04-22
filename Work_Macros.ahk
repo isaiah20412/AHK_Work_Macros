@@ -25,6 +25,10 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:FA1927::HC3Z9601A{Tab}
 :*:FA1883::7C3Z9601A{Tab}
 
+; Ford Cabin Air Filters
+:*:FP92::KL3Z19N619AA{Tab}
+:*:FP71::DG9Z19N619AA{Tab}
+
 ; Ford Windshield Wipers
 :*:WW2002PF::MLU2Z17V528E{Tab}
 :*:WW2202PF::LU2Z17V528G{Tab}
