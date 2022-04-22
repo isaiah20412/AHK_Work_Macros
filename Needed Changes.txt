@@ -17,6 +17,7 @@ ___Fluid Shortcuts___
 MERCONLV = XT-10-DLV | DONE
 MERCONSP = XT-6-QSP | DONE
 MERCONV = XT-5-BM | DONE
+XO0W20BSP = XO0W20DFS
 
 ___Short to Long Part Number Shortcuts___
 SP580X, SP580 = CYFS-12-YT4X | DONE
