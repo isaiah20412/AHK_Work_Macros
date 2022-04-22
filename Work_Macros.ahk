@@ -39,6 +39,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Ford Supercessions
 :*:VC3B::VC13G{Tab}
 :*:XO5W30QSP::XO5W30Q1SP{Tab}
+:*:XO0W20BSP::XO0W20DFS{Tab}
 
 ; Fluid Shortcuts
 :*:MERCONLV::XT10DLV{Tab}
