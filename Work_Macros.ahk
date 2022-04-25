@@ -30,7 +30,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:FP71::DG9Z19N619AA{Tab}
 
 ; Ford Windshield Wipers
-:*:WW2002PF::MLU2Z17V528E{Tab}
+:*:WW2002PF::LU2Z17V528E{Tab}
 :*:WW2202PF::LU2Z17V528G{Tab}
 
 ; Dodge Oil Filters
