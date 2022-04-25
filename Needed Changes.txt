@@ -7,6 +7,10 @@ FP-71 = DG9Z-19N619-AA | DONE
 ___Supercessions___
 XO5W30QSP = XO5W30Q1SP | DONE
 
+___Dodge Shortcuts___
+EGRCLEAN = 68028729AB
+505010 = 68163849AB
+
 ___Recall Shortcuts___
 21S22 = W709002-SS3GA | DONE
 
