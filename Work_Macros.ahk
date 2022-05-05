@@ -46,6 +46,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:MERCONSP::XT6QSP{Tab}
 :*:MERCONV::XT5BM{Tab}
 :*:MERCONULV::XT12QUL{Tab}
+:*:ATF4::68218057AC{Tab}
 
 ; Dodge Shortcuts
 :*:EGRCLEAN::68028729AB{Tab}
