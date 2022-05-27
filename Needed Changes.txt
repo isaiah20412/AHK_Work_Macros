@@ -24,7 +24,7 @@ ___Recall Shortcuts___
 
 ___Vague Ideas___
 Some form of quantity converter for techWALL only... I.E. - "6/XO5W30BSP" becomes "XO5W30BSP {Tab} {Tab} 6"    Thoughts???
-Panda emoji 🐼 in P&A macro?
+Panda emoji 🐼 in P&A macro? | DONE
 
 ___Fluid Shortcuts___
 MERCONLV = XT-10-DLV | DONE

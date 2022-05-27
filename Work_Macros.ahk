@@ -87,7 +87,7 @@ return
 ; Parts Info
 ; P&A
 !S::
-Send, See VHR for P&A.
+Send, See VHR for 🐼.
 Return
 
 !v::
