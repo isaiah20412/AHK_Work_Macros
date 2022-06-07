@@ -54,6 +54,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Dodge Shortcuts
 :*:EGRCLEAN::68028729AB{Tab}
 :*:505010::68163849AB{Tab}
+:*:50505::68051212AC{Tab}
 :*:ERTV::4883971AC{Tab}
 :*:TRTV::5010884AD{Tab}
 :*:3BOND::68082860AB{Tab}
