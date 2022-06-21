@@ -20,6 +20,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; Ford Spark Plugs
 :*:SP580::CYFS12YT4X{Tab}
+:*:SP520::CYFS12YT6{Tab}
 
 ; Ford Air Filters
 :*:FA1927::HC3Z9601A{Tab}
