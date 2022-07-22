@@ -93,11 +93,17 @@ return
 ; P&A
 !S::
 Send, See VHR for 🐼.
-Return
+return
 
 !v::
 Sleep, 300
 StringReplace, clipboard, clipboard, %A_Space%, , All
 Send, %clipboard%
 Send, {Tab}
+return
+
+; Aftermarket
+; Deliver Info
+!a::
+Send, Ford Shop - Isaiah
 return
