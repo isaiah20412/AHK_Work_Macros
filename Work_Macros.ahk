@@ -105,5 +105,5 @@ return
 ; Aftermarket
 ; Deliver Info
 !a::
-Send, Ford Shop - Isaiah
+Send, Ford Shop - IJP
 return
