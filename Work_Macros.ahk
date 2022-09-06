@@ -107,3 +107,11 @@ return
 !a::
 Send, Ford Shop - IJP
 return
+
+; Dealertrack
+; Actions
+
+; Shop Delivery Printer Change
+!d::
+Send, CROW1PDP2{Tab}{Tab}3{Enter}
+return
