@@ -115,3 +115,9 @@ return
 !d::
 Send, CROW1PDP2{Tab}{Tab}3{Enter}
 return
+
+; Place VIN in Ticket Comments
+!p::
+SendRaw, VIN # 
+Send, %Clipboard%{Enter}
+return
