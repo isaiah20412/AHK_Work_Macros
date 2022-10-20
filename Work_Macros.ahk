@@ -20,7 +20,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; Honda Oil Filters
 :*:HONFIL::15400PLMA02{Tab}
-:*:HCWASH::941091400{Tab}
+:*:HCWASH::9410914000{Tab}
+:*:HCTWASH::90471PX4000
 
 ; Ford Spark Plugs
 :*:SP580::CYFS12YT4X{Tab}
