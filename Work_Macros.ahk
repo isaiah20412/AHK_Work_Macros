@@ -99,6 +99,11 @@ return
 Send, {BackSpace}S/O 5-7 days.
 return
 
+; Honda One Day
+!1::
+Send, OK/40.
+return
+
 
 ; Parts Info
 ; P&A
