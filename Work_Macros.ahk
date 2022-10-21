@@ -104,6 +104,16 @@ return
 Send, OK/40.
 return
 
+; In Stock
+!2::
+Send, In stock.
+return
+
+; Backordered
+!2::
+Send, Backordered.
+return
+
 
 ; Parts Info
 ; P&A
