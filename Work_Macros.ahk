@@ -101,7 +101,7 @@ return
 
 ; Honda One Day
 !1::
-Send, OK/40.
+Send, OK/40
 return
 
 ; In Stock
