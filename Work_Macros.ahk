@@ -131,7 +131,7 @@ return
 ; Aftermarket
 ; Deliver Info
 !a::
-Send, Ford Shop - IJP
+Send, Honda Shop - IJP
 return
 
 ; Dealertrack
