@@ -72,6 +72,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:TRTV::5010884AD{Tab}
 :*:3BOND::68082860AB{Tab}
 
+; Honda Shortcuts
+:*:HBOND::087180004{Tab}
+
 
 ; Note Shortcuts
 ; Special Order
