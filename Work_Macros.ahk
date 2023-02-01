@@ -74,6 +74,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; Honda Shortcuts
 :*:HBOND::087180004{Tab}
+:*:HCOOL::OL9999011{Tab}
 
 
 ; Note Shortcuts
