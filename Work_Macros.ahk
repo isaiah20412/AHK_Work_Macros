@@ -144,12 +144,6 @@ return
 ; Shop Delivery Printer Change
 !d::
 Send, CROW1PDP2{Tab}{Tab}3{Enter}
-
-/*
-Sleep, 150
-Send, {Enter}
-*/
-
 return
 
 ; Place VIN in Ticket Comments
