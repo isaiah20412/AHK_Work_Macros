@@ -138,8 +138,7 @@ return
 Send, Honda Shop - IJP
 return
 
-; Dealertrack
-; Actions
+; Dealertrack Actions
 
 ; Shop Delivery Printer Change
 !d::
@@ -150,4 +149,10 @@ return
 !p::
 SendRaw, VIN # 
 Send, %Clipboard%{Enter}
+return
+
+; General
+; Insert Email Address
+!m::
+SendRaw, isaiah.payton@crownmotorsredding.net
 return
