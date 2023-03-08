@@ -7,7 +7,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Part Number Shortcuts
 ; Ford Oil Filters
 :*:fl500::AA5Z6714A{Tab}
-:*:fl2051::BC3Z6731B{Tab}
+:*:fl2051::MU2Z6731C{Tab}
 :*:fl820::F1AZ6731BE{Tab}
 :*:FL910::BE8Z6731AB{Tab}
 :*:FL2062::KU2Z6731A{Tab}
@@ -17,6 +17,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:FL2082::JX6Z6731B{Tab}
 :*:FL2016::3C3Z6731AA{Tab}
 :*:FL1995::F4TZ6731B{Tab}
+:*:FL2124::MU2Z6731C{Tab}
 
 ; Honda Oil Filters
 :*:HONFIL::15400PLMA02{Tab}
