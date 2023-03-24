@@ -155,5 +155,5 @@ return
 ; General
 ; Insert Email Address
 !m::
-SendRaw, isaiah.payton@crownmotorsredding.net
+SendRaw, isaiah.payton@crownmotorsredding.com
 return
