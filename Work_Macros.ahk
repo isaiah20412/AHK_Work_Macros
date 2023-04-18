@@ -64,6 +64,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:MERCONULV::XT12QULV{Tab}
 :*:ATF4::68218057AC{Tab}
 
+; Ford Shortcuts
+:*:DPLUG::W302908{Tab}
+
 ; Dodge Shortcuts
 :*:EGRCLEAN::68028729AB{Tab}
 :*:505010::68163849AB{Tab}
