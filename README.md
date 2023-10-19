@@ -2,7 +2,7 @@
 A collection of various macros and text replacements to speed up parts department workflow. Created while I was working at Crown Motors, therefore parts of this script are specific to their systems.
 
 ## Installation
-Simply dowload the AutoHotKey script and place it in any directory on the system, then place a shorcut to that script into your "shell:startup" folder.
+Assuming that AutoHotKey is installed on your system, simply dowload the AHK_Work_Macros.ahk script, place it in any directory on the system, then place a shorcut to that script into your "shell:startup" folder.
 
 ## Usage
 The scripts functions can be broken down into two main categories: [Text Replacements](#text-replacements) and [Macros](#macros). The majority of the functions are text replacements, most of which simply change a short part number into a long one when the short number is typed. The macros are for automation of repetitive tasks like printer changes, commonly typed phrases, etc.
